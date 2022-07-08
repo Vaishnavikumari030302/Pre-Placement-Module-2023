@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Vaish302/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/@km_1923en1083)
+- LeetCode: [(https://leetcode.com/Vaish302/)](https://leetcode.com/Vaish302/)
+- HackerRank: [(https://leetcode.com/Vaish302/)](https://www.hackerrank.com/@km_1923en1083)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)

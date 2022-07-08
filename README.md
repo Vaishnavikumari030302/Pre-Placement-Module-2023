@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
+- Name: Vaishnavi Kumari
+- University Roll No.: 1900290210087
+- Branch:EEE
+- Section:B
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/Vaish302/)
+- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/@km_1923en1083)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
